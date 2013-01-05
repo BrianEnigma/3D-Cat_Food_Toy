@@ -1,5 +1,12 @@
 #3D-Printed Parametric Cat Food Dispensing Toy
 
+##Note
+
+This GitHub project holds the source files for the [Food-Dispensing Cat
+Toy](http://www.thingiverse.com/thing:40425/edit).  For the printable 
+final renders, please visit the Thingiverse project page at
+<http://www.thingiverse.com/thing:40425/edit>.
+
 ##Overview
 
 This project is an exploration into designing and manufacturing a cat toy
@@ -38,7 +45,7 @@ SQUARE, or DIAMOND (technically, triangles):
 Note that the sheer number of boolean subtracts makes this a difficult final
 render to an STL-exportable object in OpenSCAD, even on a powerful modern
 machine.  This is compounded by the length of the cylinder.  I've seen it
-take easily 10-20 minutes.
+easily take 10 minutes.
 
 ##Design Notes
 
