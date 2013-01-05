@@ -3,9 +3,9 @@
 ##Note
 
 This GitHub project holds the source files for the [Food-Dispensing Cat
-Toy](http://www.thingiverse.com/thing:40425/edit).  For the printable 
+Toy](http://www.thingiverse.com/thing:40425).  For the printable 
 final renders, please visit the Thingiverse project page at
-<http://www.thingiverse.com/thing:40425/edit>.
+<http://www.thingiverse.com/thing:40425>.
 
 ##Overview
 
