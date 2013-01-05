@@ -21,7 +21,7 @@ module clip_style_1()
 {
     intersection()
     {
-        translate(v = [CYLINDER_DIAMETER / 2 - CYLINDER_THICKNESS - TOLERANCE, 2.5, ENDCAP_LENGTH])
+        translate(v = [CYLINDER_DIAMETER / 2 - CYLINDER_THICKNESS - TOLERANCE, 2.5, ENDCAP_LENGTH - TOLERANCE])
             rotate(a = [90, 0, 0])
                 linear_extrude(height = 5, center = false, convexity = 3, twist = 0, slices = DETAIL)
                     polygon(points=[[0,0],[-5, 0],[0, 10]]);
