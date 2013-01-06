@@ -54,14 +54,27 @@ the MakerBot Replicator.  I suppose I could have made the cylinder thicker
 and/or the inter-triangle braces thicker, but I moved on to other, more
 interesting designs.
 
-**Oval variant** :: Visually, this one printed much nicer, but did not seem
-structurally strong enough for use.  I may work on sizing and spacing more.
+**Oval variant (thin)** :: Visually, this one printed much nicer, but did not seem
+structurally strong enough for use.  It was far too brittle.
 
-**Square variant** :: So far, this one works best, but is absolutely the
+**Oval variant (thick)** :: Ovals, spaced further apart than the "thin" variant
+and with a thicker wall.
+
+**Square variant** :: This version is the strongest, but is absolutely the
 least interesting visually.
+
+**Endcap (flat)** :: An end-cap design that friction-fits into the ends of
+the tube.  It is flat on the end, making it easy to print.  It is a really 
+tight friction fit, but it works for me.  If your printer is not as 
+detailed as the Replicator, you might want to adjust the TOLERANCE constant
+at the top of the file to loosen it up a bit.
 
 ##TODO
 
-- I still needs to design the snap-in end caps.
+- I'd like to design an endcap with a partial sphere so that the tube cannot
+flip up on one end get stuck in that position.  That sort of design will 
+either be in two pieces (the flat endcap plus a partial sphere to glue on
+to it) or will require support.
+
 
 
