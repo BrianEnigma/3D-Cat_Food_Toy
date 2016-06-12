@@ -76,5 +76,7 @@ flip up on one end get stuck in that position.  That sort of design will
 either be in two pieces (the flat endcap plus a partial sphere to glue on
 to it) or will require support.
 
+## License
 
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
